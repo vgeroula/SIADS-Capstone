@@ -1,0 +1,8 @@
+Data access statement
+
+As it is also mentioned in the "README" file, the data used for this project is accessible and can be downloaded from the following link:
+https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data
+
+It mainly consists of daily historical sales data. Our task is to be able to forecast the total amount of products sold in every shop.
+
+Based on the above kaggle URL, "this dataset is permitted to be used for any purpose, including commercial use".
