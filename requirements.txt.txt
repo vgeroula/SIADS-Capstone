@@ -1,0 +1,11 @@
+# Python libraries needed to run the code
+
+pandas==1.5.3
+scikit-learn==1.2.1
+matplotlib==3.7.0
+xgboost==1.7.3
+pmdarima==2.0.3
+tqdm==4.64.1
+
+
+# Note: The module "pickle" is also needed, but there is no need to install it, as it is a module in Python's standard library.
