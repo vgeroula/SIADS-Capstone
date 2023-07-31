@@ -7,6 +7,6 @@ Before starting, make sure that all the Python libraries listed in the "requirem
 There are in total 5 CSV files expected to be in the "Data" folder: "item_categories.csv", "items.csv", "shops.csv", "sales_train.csv", "test.csv".
 All these CSV files can be downloaded from the following link: https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data
 
-2. Run the Python script (Jupyter Notebook) called "Part1-DataPreparation.ipynb". This will perform all required data pre-processing, feature engineering, and will output two pickles containing two dataframes with data ready to be analyzed. Before continuing, make sure that both pickle files are stored in the same directory as the Python scripts. 
+2. Run the Python script (Jupyter Notebook) called "Part1-DataPreparation.ipynb". This will perform all required data pre-processing, feature engineering, and will output two pickle files containing two dataframes with data ready to be analyzed. Before continuing, make sure that both pickle files are stored in the same directory as the Python scripts. 
 
 3. Run the Python script (Jupyter Notebook) called "Part2-ModelTraining.ipynb". This is reading the ready for analysis data (the aforementioned two pickle files), and provides forecasts of demand. 
